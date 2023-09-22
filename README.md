@@ -1,7 +1,7 @@
 Resume - Richard White
 ========================
 
-<img src="headshot.jpg" style="width: 30%; margin: 1em; float: right;" />
+<img src="./blob/main/headshot.jpg" style="width: 30%; margin: 1em; float: right;" />
 
 Contact Information
 -------------------
