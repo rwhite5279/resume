@@ -2,6 +2,7 @@ Resume - Richard White
 ========================
 
 <img src="headshot.jpg" style="width: 30%; margin: 1em; float: right;" />
+
 Contact Information
 -------------------
 
