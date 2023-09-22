@@ -1,7 +1,7 @@
 Resume - Richard White
 ========================
 
-<img src="./blob/main/headshot.jpg" style="width: 30%; margin: 1em; float: right;" />
+<img src="./headshot.jpg" style="width: 30%; float: right; margin: 1em; " />
 
 Contact Information
 -------------------
@@ -20,15 +20,15 @@ I am a creative, high-energy, life-long educator who enjoys guiding students in 
 Work Experience	
 ---------------
 
-* Teacher, Polytechnic School, Pasadena, CA.  2004-present
+* Teacher, [Polytechnic School](https://polytechnic.org), Pasadena, CA.  2004-present
     * Developed Computer Science program, including curriculum development and teaching CS courses:
-        * Intro to Computer Science - a Python-based single-semester elective (2010-present)
-        * AP Computer Science A - a Java-based year-long elective (2013-present)
-        * Advanced Topics in Computer Science - a post-AP single-semester elective covering advanced algorithms and data structures (2016-present)
+        * [Intro to Computer Science](https://crashwhite.com/introcompsci) - a Python-based single-semester elective (2010-present)
+        * [AP Computer Science A](https://crashwhite.com/apcompsci) - a Java-based year-long elective (2013-present)
+        * [Advanced Topics in Computer Science](https://crashwhite.com/advtopicscompsci) - a post-AP single-semester elective covering advanced algorithms and data structures (2016-present)
     * Conduct introductory workshops for students in Open Source Software, Linux, server administration
     * Developed and taught Adult Education Computer Science course for wider school community
     * Developed and taught annual "Hour of Code" presentations
-    * Teach two Advanced Placement Physics C courses: Mechanics and Electricity & Magnetism (12 grade, 2004-present)
+    * Teach two Advanced Placement [Physics C courses](https://crashwhite.com/apphysics/): Mechanics and Electricity & Magnetism (12 grade, 2004-present)
     * Taught Conceptual Physics (9th grade, 2004-2013).
     * Chaired the Faculty Technology Committee, responsible for training teachers in educational technology.
     * Served on school's Admissions Committee, Education Committee
