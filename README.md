@@ -17,7 +17,7 @@ Personal Statement
 
 I am a creative, high-energy, life-long educator who enjoys guiding students in their learning of **computer science** and **physics**. As technology has become increasingly important, I have enjoyed spending more time developing and teaching various computer science curricula, for use both with my own students and in training other educators.
 
-Work Experience	
+Teaching Experience	
 ---------------
 
 * Teacher, [Polytechnic School](https://polytechnic.org), Pasadena, CA.  2004-present
@@ -55,6 +55,16 @@ Work Experience
     * Taught Intro & Advanced Computer Programming, Computer Applications courses
     * Developed the school's computer science curriculum, conducted teacher in-services in the use of desktop computers, installed and operated the networked Computer Lab
 
+Software Experience
+-------------------
+
+* Build and maintain a wide variety of static website to support courses, independent organizations, and projects as part of my teaching.
+* Build and maintain a series of MySQL-driven content-delivery websites
+    * [LearnAPCompSci.com](https://learnapcompsci.com)
+    * [LearnAPphysics.com](https://learnapphysics.com)
+    * [LearnConceptualPhysics.com](https://learnconceptualphysics.com)
+* Build seasonal "microsocial network" weapons to support small events, including the [Holiday Half Marathon](https://www.crashwhite.com/holidayhalf/)
+* Have designed, built, and supported small websites for local businesses (no longer active)
 
 Related Experience
 ------------------
