@@ -9,23 +9,23 @@ Contact Information
 P.O. Box 50318  
 Pasadena, CA  91115  
 rwhite@crashwhite.com  
-rwhite@polytechnic.org
 
 
 Personal Statement
 ------------------
 
-I am a creative, high-energy, life-long educator who enjoys guiding students in their learning of **computer science** and **physics**. As technology has become increasingly important, I have enjoyed spending more time developing and teaching various computer science curricula, for use both with my own students and in training other educators.
+I am a creative, high-energy, life-long educator, recently retired, who enjoys guiding students of all ages in their learning of **computer science** and **physics**. As technology has become increasingly important, I have enjoyed spending more time developing and teaching various computer science curricula, for use both with my own students and in training other educators.
 
 Teaching Experience	
 ---------------
 
-* Teacher, [Polytechnic School](https://polytechnic.org), Pasadena, CA.  2004-present
+* Teacher, [Polytechnic School](https://polytechnic.org), Pasadena, CA.  2004-2026
     * Developed Computer Science program, including curriculum development and teaching CS courses:
-        * [Intro to Computer Science](https://crashwhite.com/introcompsci) - a Python-based single-semester elective (2010-present)
-        * [AP Computer Science A](https://crashwhite.com/apcompsci) - a Java-based year-long elective (2013-present)
-        * [Advanced Topics in Computer Science](https://crashwhite.com/advtopicscompsci) - a post-AP single-semester elective covering advanced algorithms and data structures (2016-present)
-    * Conduct introductory workshops for students in Open Source Software, Linux, server administration
+        * [Intro to Computer Science](https://crashwhite.com/introcompsci) - a Python-based single-semester elective (2010-2026)
+        * [AP Computer Science A](https://crashwhite.com/apcompsci) - a Java-based year-long elective (2013-2026)
+        * [Advanced Topics in Computer Science](https://crashwhite.com/advtopicscompsci) - a post-AP single-semester elective covering advanced algorithms and data structures (2016-2026)
+    * Advocated for a Computer Science Department, served as inaugural Chair, 2025-2026
+    * Conducted introductory workshops for students in Open Source Software, Linux, server administration
     * Developed and taught Adult Education Computer Science course for wider school community
     * Developed and taught annual "Hour of Code" presentations
     * Teach two Advanced Placement [Physics C courses](https://crashwhite.com/apphysics/): Mechanics and Electricity & Magnetism (12 grade, 2004-present)
@@ -58,13 +58,13 @@ Teaching Experience
 Software Experience
 -------------------
 
-* Build and maintain a wide variety of static website to support courses, independent organizations, and projects as part of my teaching.
+* Build and maintain a wide variety of websites--both static and dynamic--to support courses, independent organizations, and projects as part of my teaching.
 * Build and maintain a series of MySQL-driven content-delivery websites
     * [LearnAPCompSci.com](https://learnapcompsci.com)
     * [LearnAPphysics.com](https://learnapphysics.com)
     * [LearnConceptualPhysics.com](https://learnconceptualphysics.com)
 * Build seasonal "microsocial network" weapons to support small events, including the [Holiday Half Marathon](https://www.crashwhite.com/holidayhalf/)
-* Have designed, built, and supported small websites for local businesses (no longer active)
+* Have designed, built, and supported small websites for local businesses
 
 Related Experience
 ------------------
