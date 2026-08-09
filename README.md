@@ -9,7 +9,7 @@ Contact Information
 P.O. Box 50318  
 Pasadena, CA  91115  
 rwhite@crashwhite.com  
-
+[GitHub: rwhite5279](https://github.com/rwhite5279)
 
 Personal Statement
 ------------------
@@ -28,13 +28,13 @@ Teaching Experience
     * Conducted introductory workshops for students in Open Source Software, Linux, server administration
     * Developed and taught Adult Education Computer Science course for wider school community
     * Developed and taught annual "Hour of Code" presentations
-    * Teach two Advanced Placement [Physics C courses](https://crashwhite.com/apphysics/): Mechanics and Electricity & Magnetism (12 grade, 2004-present)
-    * Taught Conceptual Physics (9th grade, 2004-2013).
-    * Chaired the Faculty Technology Committee, responsible for training teachers in educational technology.
+    * Teach two Advanced Placement [Physics C courses](https://crashwhite.com/apphysics/): Mechanics and Electricity & Magnetism (12 grade, 2004-2026)
+    * Taught Conceptual Physics (9th grade, 2004-2013)
+    * Chaired the Faculty Technology Committee, responsible for training teachers in educational technology
     * Served on school's Admissions Committee, Education Committee
 
-* Teacher, Partnership for Success!, Pasadena CA.  2019-2022
-    * Wrote curriculum and teach computer science for six-week summer program for first-generation students in Pasadena Unified School District
+* Teacher, [Partnership for Success](https://www.pfspasadena.org), Pasadena CA.  2019-2022
+    * Wrote curriculum and teach computer science for six-week summer program for first-generation students in the Pasadena Unified School District
     
 * Teacher, Berkeley High School, Berkeley, CA.  1997-2002, 2003-2004
     * Taught Advanced Placement Physics, 11th & 12th grade Physics, Integrated Science, and Physical Science
@@ -47,7 +47,7 @@ Teaching Experience
 * Teacher, Science Dept. Chair, Yucca Valley High School, Yucca Valley, CA. 1991-1997, 2003
     * Taught Algebra & Algebra II courses (2003)
     * Taught 11th & 12th grade Physics, Applied Physics, 9th & 10th grade Physical Science, Earth Science, and Integrated Science courses (1991-1997)
-    * Served as Science Dept. Chair, including serving on the school's site-based management Academic Council and the principal's Core advisory committee (1993-1995).
+    * Served as Science Dept. Chair, including serving on the school's site-based management Academic Council and the principal's Core advisory committee (1993-1995)
     * Conducted staff development presentations and faculty in-services in computer applications and the Internet
     * Directed the Vertical Club, a student rockclimbing organization
 
@@ -64,7 +64,7 @@ Software Experience
     * [LearnAPphysics.com](https://learnapphysics.com)
     * [LearnConceptualPhysics.com](https://learnconceptualphysics.com)
 * Build seasonal "microsocial network" weapons to support small events, including the [Holiday Half Marathon](https://www.crashwhite.com/holidayhalf/)
-* Have designed, built, and supported small websites for local businesses
+* Design, build, and support small websites for local businesses
 
 Related Experience
 ------------------
@@ -73,7 +73,7 @@ Related Experience
 * Computer languages known: Python, Java, HTML/CSS, PHP, MySQL
 * California Single-Subject Teaching Credential in Physical Science (#200196774)
 * Performed on-site WASC/CAIS accreditation visitations (2006, 2020)
-* Presenter, Computer-Using Educators Conference (2007)
+* Presenter, Computer-Using Educators (CUE) Conference (2007)
 * Consultant, Eeps Media, Inc., Oakland, CA  
   Performed classroom alpha testing of "Fathom" data analysis software (2002-2004).
 * Consultant, Britannica.com Inc., Chicago, IL 
@@ -94,5 +94,3 @@ Education
   1983 - 1986, B.A. in Geology awarded 1/86
 * University of California, Irvine  
   1978 - 1981, majored in Information and Computer Science
-
-
