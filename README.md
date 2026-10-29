@@ -28,13 +28,13 @@ Teaching Experience
     * Conducted introductory workshops for students in Open Source Software, Linux, server administration
     * Developed and taught Adult Education Computer Science course for wider school community
     * Developed and taught annual "Hour of Code" presentations
-    * Teach two Advanced Placement [Physics C courses](https://crashwhite.com/apphysics/): Mechanics and Electricity & Magnetism (12 grade, 2004-2026)
+    * Taught two Advanced Placement [Physics C courses](https://crashwhite.com/apphysics/): Mechanics and Electricity & Magnetism (12 grade, 2004-2026)
     * Taught Conceptual Physics (9th grade, 2004-2013)
     * Chaired the Faculty Technology Committee, responsible for training teachers in educational technology
     * Served on school's Admissions Committee, Education Committee
 
 * Teacher, [Partnership for Success](https://www.pfspasadena.org), Pasadena CA.  2019-2022
-    * Wrote curriculum and teach computer science for six-week summer program for first-generation students in the Pasadena Unified School District
+    * Wrote curriculum and taught computer science for six-week summer program for first-generation students in the Pasadena Unified School District
     
 * Teacher, Berkeley High School, Berkeley, CA.  1997-2002, 2003-2004
     * Taught Advanced Placement Physics, 11th & 12th grade Physics, Integrated Science, and Physical Science
